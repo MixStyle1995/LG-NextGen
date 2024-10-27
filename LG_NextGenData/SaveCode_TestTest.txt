@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load MRJE-NJTC-RW1P-MOYQ-5" )
+	call Preload( "Name: TestTest" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 0" )
+	call Preload( "Lose: 1" )
+	call Preload( "ELO: -10" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
