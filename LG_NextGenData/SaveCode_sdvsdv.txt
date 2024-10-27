@@ -1,0 +1,8 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load DZX4-BVY4-SMQ3-2H4I" )
+
+
+endfunction
+
+
