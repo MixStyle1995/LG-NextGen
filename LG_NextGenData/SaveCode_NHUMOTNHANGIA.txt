@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load BE5C-B3PC-70VZ-EOAD-9" )
+	call Preload( "Name: NHUMOTNHANGIA" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 7" )
+	call Preload( "Lose: 8" )
+	call Preload( "ELO: -12" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
