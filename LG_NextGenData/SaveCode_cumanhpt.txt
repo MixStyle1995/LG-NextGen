@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load CMVM-F3DF-UJLW-1G6" )
+	call Preload( "Name: cumanhpt" )
+	call Preload( "Rank: 1" )
+	call Preload( "Win: 4" )
+	call Preload( "Lose: 3" )
+	call Preload( "ELO: 25" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
