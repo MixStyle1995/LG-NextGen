@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load GEJJ-466A-4B9B-A9B2-C" )
+	call Preload( "Name: Mamaboy" )
+	call Preload( "Rank: 4" )
+	call Preload( "Win: 41" )
+	call Preload( "Lose: 3" )
+	call Preload( "ELO: 312" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
