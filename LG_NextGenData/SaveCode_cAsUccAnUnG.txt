@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load BE4L-HDR5-9OQG-3WF9-E" )
+	call Preload( "Name: cAsUccAnUnG" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 11" )
+	call Preload( "Lose: 12" )
+	call Preload( "ELO: -11" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
