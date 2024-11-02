@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load D3KA-QRMV-CN3T-0IN6-O0" )
+	call Preload( "Name: BAVODAYCON" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 15" )
+	call Preload( "Lose: 15" )
+	call Preload( "ELO: -7" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
