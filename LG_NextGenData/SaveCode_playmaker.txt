@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load DZZW-2V54-SDSL-RGUR" )
+	call Preload( "Name: playmaker" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 5" )
+	call Preload( "Lose: 2" )
+	call Preload( "ELO: 20" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
