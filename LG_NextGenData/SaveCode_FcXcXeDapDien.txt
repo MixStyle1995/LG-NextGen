@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load BE4S-IOUA-1BPU-3DI5-P" )
+	call Preload( "Name: FcXcXeDapDien" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 2" )
+	call Preload( "Lose: 5" )
+	call Preload( "ELO: -30" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
