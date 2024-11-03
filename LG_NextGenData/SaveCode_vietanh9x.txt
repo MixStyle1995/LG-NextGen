@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load CMVI-LUJN-9JPC-CB0" )
+	call Preload( "Name: vietanh9x" )
+	call Preload( "Rank: 1" )
+	call Preload( "Win: 4" )
+	call Preload( "Lose: 2" )
+	call Preload( "ELO: 25" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
