@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load BE4K-H1HM-CWRV-WBS5-Z" )
+	call Preload( "Name: musulamy" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 0" )
+	call Preload( "Lose: 1" )
+	call Preload( "ELO: -5" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
