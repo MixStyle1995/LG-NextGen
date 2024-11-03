@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load BE4S-HIKZ-FRDT-L50L-5" )
+	call Preload( "Name: cholyuri2" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 2" )
+	call Preload( "Lose: 4" )
+	call Preload( "ELO: -25" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
