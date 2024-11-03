@@ -1,11 +1,11 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load CNRX-GHDS-O29Q-5DUN-C" )
+	call Preload( "-load CNS4-T87B-M3OA-YHNN-1" )
 	call Preload( "Name: Ping100KoLag" )
 	call Preload( "Rank: 1" )
-	call Preload( "Win: 11" )
+	call Preload( "Win: 12" )
 	call Preload( "Lose: 10" )
-	call Preload( "ELO: 25" )
+	call Preload( "ELO: 30" )
 	call PreloadEnd( 0.0 )
 
 endfunction
