@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load ZRDS-N0XK-7UWQ-GPG" )
+	call Preload( "Name: JickKiPhan" )
+	call Preload( "Rank: 1" )
+	call Preload( "Win: 15" )
+	call Preload( "Lose: 13" )
+	call Preload( "ELO: 20" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
