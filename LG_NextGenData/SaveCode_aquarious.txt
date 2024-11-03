@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load MRQM-MIEE-NECC-M74P-2" )
+	call Preload( "Name: aquarious" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 6" )
+	call Preload( "Lose: 10" )
+	call Preload( "ELO: -35" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
