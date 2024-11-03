@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load MROA-B2MQ-7SGV-Q3YF-T" )
+	call Preload( "Name: trancong3334" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 4" )
+	call Preload( "Lose: 7" )
+	call Preload( "ELO: -20" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
