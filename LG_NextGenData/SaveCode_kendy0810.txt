@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load BE4S-CQFA-7119-J0DG-W" )
+	call Preload( "Name: kendy0810" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 2" )
+	call Preload( "Lose: 0" )
+	call Preload( "ELO: 10" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
