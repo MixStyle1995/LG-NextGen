@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load CNQP-2PEJ-3IWM-AOPX-L" )
+	call Preload( "Name: Ping100KoLag" )
+	call Preload( "Rank: 1" )
+	call Preload( "Win: 10" )
+	call Preload( "Lose: 10" )
+	call Preload( "ELO: 15" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
