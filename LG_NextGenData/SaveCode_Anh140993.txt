@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load BE4K-KDU2-LUHO-VR6X-M" )
+	call Preload( "Name: Anh140993" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 0" )
+	call Preload( "Lose: 3" )
+	call Preload( "ELO: -25" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
