@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load DZZK-TI7M-RXWE-9O35" )
+	call Preload( "Name: bmw720" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 4" )
+	call Preload( "Lose: 8" )
+	call Preload( "ELO: -20" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
