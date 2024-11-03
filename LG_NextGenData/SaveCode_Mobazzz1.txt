@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load BD2B-2G6K-11D0-HLW" )
+	call Preload( "Name: Mobazzz1" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 4" )
+	call Preload( "Lose: 3" )
+	call Preload( "ELO: 0" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
