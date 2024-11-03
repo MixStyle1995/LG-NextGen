@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load DZYU-KUSG-XJYJ-HVDW" )
+	call Preload( "Name: blackboss" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 2" )
+	call Preload( "Lose: 4" )
+	call Preload( "ELO: -15" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
