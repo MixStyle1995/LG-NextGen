@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load MFP3-9GBZ-DG2V-I6O" )
+	call Preload( "Name: Mobazzz1" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 0" )
+	call Preload( "Lose: 1" )
+	call Preload( "ELO: -5" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
