@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load ZRDS-NW6L-G1GQ-L6S" )
+	call Preload( "Name: galamroi123" )
+	call Preload( "Rank: 1" )
+	call Preload( "Win: 15" )
+	call Preload( "Lose: 13" )
+	call Preload( "ELO: 10" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
