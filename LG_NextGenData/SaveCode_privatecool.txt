@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load BE5G-A87L-K825-5VRG-B" )
+	call Preload( "Name: privatecool" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 8" )
+	call Preload( "Lose: 9" )
+	call Preload( "ELO: -20" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
