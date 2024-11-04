@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load H2OM-LYIL-MVQT-9C" )
+	call Preload( "Name: eboy15" )
+	call Preload( "Rank: 1" )
+	call Preload( "Win: 7" )
+	call Preload( "Lose: 6" )
+	call Preload( "ELO: 5" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
