@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load MRT8-RS8R-K42C-212I-F" )
+	call Preload( "Name: honglac7799" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 9" )
+	call Preload( "Lose: 10" )
+	call Preload( "ELO: -20" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
