@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load DZYL-QTA5-9D7O-2Y81" )
+	call Preload( "Name: trainho1" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 22" )
+	call Preload( "Lose: 19" )
+	call Preload( "ELO: 15" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
