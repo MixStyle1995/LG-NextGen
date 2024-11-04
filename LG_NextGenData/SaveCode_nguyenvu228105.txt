@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load L4RE-KXV7-M5YC-VWT8" )
+	call Preload( "Name: nguyenvu228105" )
+	call Preload( "Rank: 2" )
+	call Preload( "Win: 19" )
+	call Preload( "Lose: 12" )
+	call Preload( "ELO: 65" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
