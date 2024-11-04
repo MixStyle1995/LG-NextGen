@@ -1,11 +1,11 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load MRJF-DDTV-FP7U-1AZL-1" )
+	call Preload( "-load MRJF-QAM9-ZGNC-Z00H-D" )
 	call Preload( "Name: aprook" )
 	call Preload( "Rank: 0" )
 	call Preload( "Win: 0" )
-	call Preload( "Lose: 3" )
-	call Preload( "ELO: -30" )
+	call Preload( "Lose: 4" )
+	call Preload( "ELO: -35" )
 	call PreloadEnd( 0.0 )
 
 endfunction
