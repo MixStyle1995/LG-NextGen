@@ -1,10 +1,10 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load MFW7-4MGJ-MN32-GP6" )
+	call Preload( "-load MFYE-PV2J-9YR8-72Y" )
 	call Preload( "Name: Stuckwithme" )
 	call Preload( "Rank: 0" )
-	call Preload( "Win: 6" )
-	call Preload( "Lose: 8" )
+	call Preload( "Win: 7" )
+	call Preload( "Lose: 9" )
 	call Preload( "ELO: 0" )
 	call PreloadEnd( 0.0 )
 
