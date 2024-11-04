@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load BE4K-NWQD-CJMA-IFCP-0" )
+	call Preload( "Name: Mobazdota1" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 0" )
+	call Preload( "Lose: 6" )
+	call Preload( "ELO: -70" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
