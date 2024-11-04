@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load BE48-CYAN-EVX1-8Y07-N" )
+	call Preload( "Name: sifu1806" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 6" )
+	call Preload( "Lose: 7" )
+	call Preload( "ELO: -35" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
