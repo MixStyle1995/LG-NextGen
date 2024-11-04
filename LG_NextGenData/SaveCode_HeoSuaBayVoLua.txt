@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load HY3S-TLPL-FFXY-PP" )
+	call Preload( "Name: HeoSuaBayVoLua" )
+	call Preload( "Rank: 1" )
+	call Preload( "Win: 4" )
+	call Preload( "Lose: 0" )
+	call Preload( "ELO: 32" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
