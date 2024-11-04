@@ -1,11 +1,11 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load M3OD-LLPB-TZY1-8BVI-9RF" )
+	call Preload( "-load M3OD-LPNB-E58U-WVHV-G7J" )
 	call Preload( "Name: cocadinhphong" )
 	call Preload( "Rank: 0" )
 	call Preload( "Win: 10" )
-	call Preload( "Lose: 23" )
-	call Preload( "ELO: -112" )
+	call Preload( "Lose: 24" )
+	call Preload( "ELO: -122" )
 	call PreloadEnd( 0.0 )
 
 endfunction
