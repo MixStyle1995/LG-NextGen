@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load BF8E-MXOY-7DF9-GDRP-ZS1" )
+	call Preload( "Name: BAVODAYCON" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 20" )
+	call Preload( "Lose: 22" )
+	call Preload( "ELO: -12" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
