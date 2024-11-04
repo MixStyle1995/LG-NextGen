@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load COBS-I8FO-YA2V-H5Q" )
+	call Preload( "Name: hippi125" )
+	call Preload( "Rank: 1" )
+	call Preload( "Win: 8" )
+	call Preload( "Lose: 8" )
+	call Preload( "ELO: -5" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
