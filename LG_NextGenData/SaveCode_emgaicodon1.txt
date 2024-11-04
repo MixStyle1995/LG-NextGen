@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load DZZ9-ZIP5-VH62-1FGX" )
+	call Preload( "Name: emgaicodon1" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 6" )
+	call Preload( "Lose: 2" )
+	call Preload( "ELO: 10" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
