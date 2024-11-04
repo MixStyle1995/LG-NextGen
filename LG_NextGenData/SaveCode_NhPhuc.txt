@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load BRR0-RGX1-15O2-H8CC-7X" )
+	call Preload( "Name: NhPhuc" )
+	call Preload( "Rank: 3" )
+	call Preload( "Win: 24" )
+	call Preload( "Lose: 13" )
+	call Preload( "ELO: 107" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
