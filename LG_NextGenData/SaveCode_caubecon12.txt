@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load BCZ8-TNNF-FP8Z-70B2" )
+	call Preload( "Name: caubecon12" )
+	call Preload( "Rank: 2" )
+	call Preload( "Win: 14" )
+	call Preload( "Lose: 5" )
+	call Preload( "ELO: 75" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
