@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load DZ00-JQB7-NGSC-5RK9" )
+	call Preload( "Name: locbeo1310" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 8" )
+	call Preload( "Lose: 9" )
+	call Preload( "ELO: 15" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
