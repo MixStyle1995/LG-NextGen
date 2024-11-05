@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load MFSG-2XTT-ZR9A-20V" )
+	call Preload( "Name: lamvanmanh" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 2" )
+	call Preload( "Lose: 2" )
+	call Preload( "ELO: 5" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
