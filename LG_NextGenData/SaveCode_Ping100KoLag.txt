@@ -1,11 +1,11 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load DWLI-NVJG-0XI6-0F9G-T" )
+	call Preload( "-load DWNX-FEYI-ZY62-RMTJ-J" )
 	call Preload( "Name: Ping100KoLag" )
 	call Preload( "Rank: 2" )
-	call Preload( "Win: 19" )
+	call Preload( "Win: 20" )
 	call Preload( "Lose: 14" )
-	call Preload( "ELO: 52" )
+	call Preload( "ELO: 57" )
 	call PreloadEnd( 0.0 )
 
 endfunction
