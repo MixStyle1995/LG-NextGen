@@ -1,11 +1,11 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load MRPI-FODD-FUHA-N7CL-M" )
+	call Preload( "-load D3LW-STB2-BGMJ-T7A7-VX" )
 	call Preload( "Name: NBMobile" )
 	call Preload( "Rank: 0" )
 	call Preload( "Win: 5" )
-	call Preload( "Lose: 9" )
-	call Preload( "ELO: -43" )
+	call Preload( "Lose: 10" )
+	call Preload( "ELO: -48" )
 	call PreloadEnd( 0.0 )
 
 endfunction
