@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load MRKN-GYNC-UR3L-BZLJ-J" )
+	call Preload( "Name: YouAreShit" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 1" )
+	call Preload( "Lose: 5" )
+	call Preload( "ELO: -27" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
