@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load BE4S-DWN0-EBZS-PXEL-Z" )
+	call Preload( "Name: phoprogame1" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 2" )
+	call Preload( "Lose: 1" )
+	call Preload( "ELO: 10" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
