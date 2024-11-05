@@ -1,11 +1,11 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load BE4K-I7K8-AZY2-8Q02-B" )
+	call Preload( "-load BE4K-KDUJ-WUVV-3FDS-E" )
 	call Preload( "Name: Pisu1305" )
 	call Preload( "Rank: 0" )
 	call Preload( "Win: 0" )
-	call Preload( "Lose: 2" )
-	call Preload( "ELO: -15" )
+	call Preload( "Lose: 3" )
+	call Preload( "ELO: -20" )
 	call PreloadEnd( 0.0 )
 
 endfunction
