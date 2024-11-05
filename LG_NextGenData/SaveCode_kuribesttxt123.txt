@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load ZJ33-FRHE-R2PY-R" )
+	call Preload( "Name: kuribesttxt123" )
+	call Preload( "Rank: 1" )
+	call Preload( "Win: 5" )
+	call Preload( "Lose: 1" )
+	call Preload( "ELO: 42" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
