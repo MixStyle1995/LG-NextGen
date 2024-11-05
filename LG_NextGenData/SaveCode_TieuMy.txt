@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load MFP4-YJ1H-PKL3-R77" )
+	call Preload( "Name: TieuMy" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 0" )
+	call Preload( "Lose: 3" )
+	call Preload( "ELO: -25" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
