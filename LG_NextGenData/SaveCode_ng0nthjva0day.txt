@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load CM8E-80QI-8LAS-K3Q" )
+	call Preload( "Name: ng0nthjva0day" )
+	call Preload( "Rank: 1" )
+	call Preload( "Win: 5" )
+	call Preload( "Lose: 2" )
+	call Preload( "ELO: 20" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
