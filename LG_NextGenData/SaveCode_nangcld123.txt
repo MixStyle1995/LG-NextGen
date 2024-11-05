@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load DZX4-F0TC-XKM4-84K3" )
+	call Preload( "Name: nangcld123" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 0" )
+	call Preload( "Lose: 1" )
+	call Preload( "ELO: -2" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
