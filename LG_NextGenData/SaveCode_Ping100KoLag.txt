@@ -1,11 +1,11 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load CNY5-UMAR-VEG6-4CI3-9" )
+	call Preload( "-load CNY5-VR6W-LR3I-SP9F-L" )
 	call Preload( "Name: Ping100KoLag" )
 	call Preload( "Rank: 1" )
 	call Preload( "Win: 17" )
-	call Preload( "Lose: 13" )
-	call Preload( "ELO: 37" )
+	call Preload( "Lose: 14" )
+	call Preload( "ELO: 27" )
 	call PreloadEnd( 0.0 )
 
 endfunction
