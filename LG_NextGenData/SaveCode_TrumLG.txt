@@ -1,11 +1,11 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load DZZX-IIS7-6AOZ-IVGJ" )
+	call Preload( "-load MFW7-FHLN-0N9Z-MVZ" )
 	call Preload( "Name: TrumLG" )
 	call Preload( "Rank: 0" )
-	call Preload( "Win: 5" )
+	call Preload( "Win: 6" )
 	call Preload( "Lose: 6" )
-	call Preload( "ELO: -5" )
+	call Preload( "ELO: 0" )
 	call PreloadEnd( 0.0 )
 
 endfunction
