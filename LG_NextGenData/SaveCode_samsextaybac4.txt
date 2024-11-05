@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load DS1I-MZ7J-VPKD-JU1" )
+	call Preload( "Name: samsextaybac4" )
+	call Preload( "Rank: 2" )
+	call Preload( "Win: 15" )
+	call Preload( "Lose: 6" )
+	call Preload( "ELO: 80" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
