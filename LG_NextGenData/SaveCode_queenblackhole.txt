@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load BE4K-I7K8-KM85-C5P7-4" )
+	call Preload( "Name: queenblackhole" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 0" )
+	call Preload( "Lose: 2" )
+	call Preload( "ELO: -15" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
