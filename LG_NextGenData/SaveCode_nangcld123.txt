@@ -1,11 +1,11 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load MFRA-TTPK-0LA9-SSY" )
+	call Preload( "-load DZYH-KDP3-E2WM-PLQI" )
 	call Preload( "Name: nangcld123" )
 	call Preload( "Rank: 0" )
 	call Preload( "Win: 1" )
-	call Preload( "Lose: 2" )
-	call Preload( "ELO: 1" )
+	call Preload( "Lose: 3" )
+	call Preload( "ELO: -9" )
 	call PreloadEnd( 0.0 )
 
 endfunction
