@@ -1,10 +1,10 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load CLI1-0537-H00S-H0P" )
+	call Preload( "-load CLML-GEIF-XFJF-9KC" )
 	call Preload( "Name: Natsu95" )
 	call Preload( "Rank: 1" )
-	call Preload( "Win: 11" )
-	call Preload( "Lose: 6" )
+	call Preload( "Win: 14" )
+	call Preload( "Lose: 8" )
 	call Preload( "ELO: 45" )
 	call PreloadEnd( 0.0 )
 
