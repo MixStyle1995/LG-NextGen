@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load MRKL-1BLQ-KQPS-6GA7-K" )
+	call Preload( "Name: NofuriNowin11" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 1" )
+	call Preload( "Lose: 1" )
+	call Preload( "ELO: -15" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
