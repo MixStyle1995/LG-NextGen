@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load DZYG-8LX9-PW03-KIVP" )
+	call Preload( "Name: quoctruong2205" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 1" )
+	call Preload( "Lose: 0" )
+	call Preload( "ELO: 2" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
