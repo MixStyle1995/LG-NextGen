@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load MFQ9-4LO8-Z2N7-AT5" )
+	call Preload( "Name: Hoaqhao1" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 1" )
+	call Preload( "Lose: 0" )
+	call Preload( "ELO: 10" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
