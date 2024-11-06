@@ -1,11 +1,11 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load MRJH-IUIA-TBX5-KO56-Q" )
+	call Preload( "-load D3J2-IR4P-OUTF-9B17-SF" )
 	call Preload( "Name: bopdaidongdoi12" )
 	call Preload( "Rank: 0" )
 	call Preload( "Win: 0" )
-	call Preload( "Lose: 9" )
-	call Preload( "ELO: -51" )
+	call Preload( "Lose: 10" )
+	call Preload( "ELO: -56" )
 	call PreloadEnd( 0.0 )
 
 endfunction
