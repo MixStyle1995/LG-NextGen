@@ -1,11 +1,11 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load YWKT-37T4-ILK5-Y9KG-Q7" )
+	call Preload( "-load YWMO-EYV3-DCPV-MQJF-52" )
 	call Preload( "Name: TuyenPhoDep" )
 	call Preload( "Rank: 5" )
-	call Preload( "Win: 114" )
-	call Preload( "Lose: 39" )
-	call Preload( "ELO: 495" )
+	call Preload( "Win: 119" )
+	call Preload( "Lose: 40" )
+	call Preload( "ELO: 514" )
 	call PreloadEnd( 0.0 )
 
 endfunction
