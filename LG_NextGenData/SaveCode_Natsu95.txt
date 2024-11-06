@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load DSVM-2R45-MPLI-15P" )
+	call Preload( "Name: Natsu95" )
+	call Preload( "Rank: 2" )
+	call Preload( "Win: 10" )
+	call Preload( "Lose: 5" )
+	call Preload( "ELO: 65" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
