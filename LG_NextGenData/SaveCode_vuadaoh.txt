@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load DZX4-VDUZ-YM76-F85X" )
+	call Preload( "Name: vuadaoh" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 0" )
+	call Preload( "Lose: 5" )
+	call Preload( "ELO: -35" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
