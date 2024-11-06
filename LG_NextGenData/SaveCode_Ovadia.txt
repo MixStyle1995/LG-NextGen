@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load BE4O-IC2J-BDR1-3B3T-E" )
+	call Preload( "Name: Ovadia" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 1" )
+	call Preload( "Lose: 3" )
+	call Preload( "ELO: -15" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
