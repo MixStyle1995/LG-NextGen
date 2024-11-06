@@ -1,11 +1,11 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load BF8B-BI8X-P0JS-5193-ZVL" )
+	call Preload( "-load BF8B-OSGD-HONG-KL49-GBB" )
 	call Preload( "Name: thangzxczxc" )
 	call Preload( "Rank: 0" )
-	call Preload( "Win: 12" )
+	call Preload( "Win: 13" )
 	call Preload( "Lose: 13" )
-	call Preload( "ELO: -25" )
+	call Preload( "ELO: -20" )
 	call PreloadEnd( 0.0 )
 
 endfunction
