@@ -1,11 +1,11 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load DSVM-2R45-MPLI-15P" )
+	call Preload( "-load CLHW-HLTN-D6UA-973" )
 	call Preload( "Name: Natsu95" )
-	call Preload( "Rank: 2" )
+	call Preload( "Rank: 1" )
 	call Preload( "Win: 10" )
-	call Preload( "Lose: 5" )
-	call Preload( "ELO: 65" )
+	call Preload( "Lose: 8" )
+	call Preload( "ELO: 45" )
 	call PreloadEnd( 0.0 )
 
 endfunction
