@@ -1,11 +1,11 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load D3KO-7WSH-5DPP-9CBV-14" )
+	call Preload( "-load D3KU-8UPL-DQPJ-CRU9-HN" )
 	call Preload( "Name: BAVODAYCON" )
 	call Preload( "Rank: 0" )
-	call Preload( "Win: 26" )
-	call Preload( "Lose: 30" )
-	call Preload( "ELO: -6" )
+	call Preload( "Win: 30" )
+	call Preload( "Lose: 31" )
+	call Preload( "ELO: 11" )
 	call PreloadEnd( 0.0 )
 
 endfunction
