@@ -1,11 +1,11 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load MRUB-LTFS-WCUE-2HND-H" )
+	call Preload( "-load D3ND-TM3I-PE8H-7OQK-XH" )
 	call Preload( "Name: NgaoNgoS2Linh" )
 	call Preload( "Rank: 0" )
 	call Preload( "Win: 9" )
-	call Preload( "Lose: 8" )
-	call Preload( "ELO: -20" )
+	call Preload( "Lose: 10" )
+	call Preload( "ELO: -40" )
 	call PreloadEnd( 0.0 )
 
 endfunction
