@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load MRJE-0GTL-3RT9-YBHR-N" )
+	call Preload( "Name: BiitSN" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 0" )
+	call Preload( "Lose: 2" )
+	call Preload( "ELO: -20" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
