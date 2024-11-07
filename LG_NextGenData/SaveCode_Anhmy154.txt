@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load DZX4-F0MH-MP3A-CK4A" )
+	call Preload( "Name: Anhmy154" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 0" )
+	call Preload( "Lose: 1" )
+	call Preload( "ELO: -10" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
