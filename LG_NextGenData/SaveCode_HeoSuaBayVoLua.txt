@@ -1,11 +1,11 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load Z650-F599-7ZIP-7VE" )
+	call Preload( "-load Z650-SOOO-HDRU-9OF" )
 	call Preload( "Name: HeoSuaBayVoLua" )
 	call Preload( "Rank: 1" )
 	call Preload( "Win: 55" )
-	call Preload( "Lose: 41" )
-	call Preload( "ELO: 32" )
+	call Preload( "Lose: 42" )
+	call Preload( "ELO: 27" )
 	call PreloadEnd( 0.0 )
 
 endfunction
