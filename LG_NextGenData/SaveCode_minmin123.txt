@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load D3J5-XGRZ-SX2H-626Q-E1" )
+	call Preload( "Name: minmin123" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 11" )
+	call Preload( "Lose: 21" )
+	call Preload( "ELO: -64" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
