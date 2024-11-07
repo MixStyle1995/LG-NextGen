@@ -1,11 +1,11 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load BRUY-TUAL-M7ZP-038W-Q4" )
+	call Preload( "-load BRVB-21QO-QMQ1-Q2K0-KV" )
 	call Preload( "Name: Ping100KoLag" )
 	call Preload( "Rank: 3" )
-	call Preload( "Win: 31" )
+	call Preload( "Win: 32" )
 	call Preload( "Lose: 15" )
-	call Preload( "ELO: 101" )
+	call Preload( "ELO: 106" )
 	call PreloadEnd( 0.0 )
 
 endfunction
