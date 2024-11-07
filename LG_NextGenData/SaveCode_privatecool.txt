@@ -1,11 +1,11 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load D3J9-JCOS-8AAL-E6S4-5U" )
+	call Preload( "-load D3J9-JF7K-OETI-H0IF-3T" )
 	call Preload( "Name: privatecool" )
 	call Preload( "Rank: 0" )
 	call Preload( "Win: 14" )
-	call Preload( "Lose: 14" )
-	call Preload( "ELO: -20" )
+	call Preload( "Lose: 17" )
+	call Preload( "ELO: -32" )
 	call PreloadEnd( 0.0 )
 
 endfunction
