@@ -1,0 +1,13 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load MFP3-9FA4-CDFP-ZW7" )
+	call Preload( "Name: huy8153" )
+	call Preload( "Rank: 0" )
+	call Preload( "Win: 0" )
+	call Preload( "Lose: 1" )
+	call Preload( "ELO: -2" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
