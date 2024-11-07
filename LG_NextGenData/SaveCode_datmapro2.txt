@@ -1,11 +1,11 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load DTI5-BBU2-FX57-M0D" )
+	call Preload( "-load P77T-WVDV-OQGL-D616" )
 	call Preload( "Name: datmapro2" )
-	call Preload( "Rank: 2" )
-	call Preload( "Win: 29" )
-	call Preload( "Lose: 9" )
-	call Preload( "ELO: 93" )
+	call Preload( "Rank: 3" )
+	call Preload( "Win: 32" )
+	call Preload( "Lose: 10" )
+	call Preload( "ELO: 100" )
 	call PreloadEnd( 0.0 )
 
 endfunction
